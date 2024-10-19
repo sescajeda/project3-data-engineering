@@ -67,7 +67,7 @@ Ensure you have Python 3.x installed. You will also need to install the required
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/floraaka/airbnb_vs_hotels.git
+   git clone https://github.com/sescajeda/airbnb_vs_hotels.git
    cd airbnb_vs_hotels
 
 2. Create a virtual environment (optional but recommended):
