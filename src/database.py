@@ -14,7 +14,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Database connection string (for SQLite)
-DATABASE_URL = 'sqlite:///../data/your_database.db'  # Replace with your database file path
+DATABASE_URL = 'sqlite:///../data/hotel.db'  # Replace with your database file path
 
 # Create a database engine
 engine = create_engine(DATABASE_URL)
