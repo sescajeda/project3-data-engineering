@@ -36,15 +36,11 @@ This project aims to analyze and visualize the differences between Airbnb listin
 
 │   └── utils.py           # Utility functions
 
-│
+│   ├── /templates
 
-├── /templates
+│     ├── index.html         # Main HTML template
 
-│   ├── index.html         # Main HTML template
-
-│   └── visualization.html  # Visualization template
-
-│
+│     └── visualization.html  # Visualization template
 
 ├── README.md              # Project documentation
 
