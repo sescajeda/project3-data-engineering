@@ -64,7 +64,12 @@ This project aims to analyze and visualize the differences between Airbnb listin
 
 └── requirements.txt       # List of required packages
 
-
+├── Analysis_Queries.sql       # file used to upload and store data and run the queries 
+├── SQL_Query_Table.csv        # output of sql queries 
+├── ScrappingFile_Final.ipynb  # Jupyter notebook with the code to scrape hotels.com 
+├── Resources 
+│   ├── output_files 1-16.csv  # all output files from hotels.com scraping per concert                                         location 
+│   ├──  compiled_hotel_prices.csv # cleanded dataframe containing compiled hotel prices for                                       all concert locations 
 
 ## Data Sources
 
