@@ -71,6 +71,9 @@ This project aims to analyze and visualize the differences between Airbnb listin
 │   ├── output_files 1-16.csv  # all output files from hotels.com scraping per concert                                         location 
 │   ├──  compiled_hotel_prices.csv # cleanded dataframe containing compiled hotel prices for                                       all concert locations 
 
+## Ethical Considerations
+Please reference the ethical_consideration.pdf file in the folder.  
+
 ## Data Sources
 
 - **Airbnb Data**: Data for Airbnb listings, including attributes like price, location, and ratings.
