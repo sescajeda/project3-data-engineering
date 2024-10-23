@@ -18,6 +18,22 @@ This project aims to analyze and visualize the differences between Airbnb listin
 
 │   ├── hotel_data.csv
 
+│   ├── concerts_info.csv
+
+│   ├── venues_info.csv
+
+│   ├── lodging_info.csv
+
+│ 
+
+├── /data used for hotel scrapping since shakira's tour was postpone and the new dates aren't fully available
+
+│   ├── concerts_info_ORIGINAL_DATES.csv
+
+│   ├── venues_info_ORIGINAL_DATES.csv
+
+│   ├── lodging_info_ORIGINAL_DATES.csv
+
 │
 
 ├── /notebooks
@@ -25,6 +41,8 @@ This project aims to analyze and visualize the differences between Airbnb listin
 │   ├── data_cleaning.ipynb
 
 │   ├── data_visualization.ipynb
+
+│   ├── TicketmasterPy.ipynb
 
 │
 
